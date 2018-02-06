@@ -6,3 +6,31 @@ html {
   color: white;
   background-image: url("../img/header.png");
 }
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+nav {
+  font-size: 18px;
+  color: white;
+}
+a:visited {
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+span {
+  font-size 14px;
+}
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
